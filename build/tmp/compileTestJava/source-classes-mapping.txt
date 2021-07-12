@@ -6,3 +6,5 @@ com/quasar/book/springboot/domain/posts/PostsRepositoryTest.java
  com.quasar.book.springboot.domain.posts.PostsRepositoryTest
 com/quasar/book/springboot/web/PostsApiControllerTest.java
  com.quasar.book.springboot.web.PostsApiControllerTest
+com/quasar/book/springboot/web/IndexControllerTest.java
+ com.quasar.book.springboot.web.IndexControllerTest

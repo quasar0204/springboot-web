@@ -2,8 +2,8 @@ com/quasar/book/springboot/web/HelloController.java
  com.quasar.book.springboot.web.HelloController
 com/quasar/book/springboot/web/dto/HelloResponseDto.java
  com.quasar.book.springboot.web.dto.HelloResponseDto
-com/quasar/book/springboot/domain/posts/PostsRepository.java
- com.quasar.book.springboot.domain.posts.PostsRepository
+com/quasar/book/springboot/domain/BaseTimeEntity.java
+ com.quasar.book.springboot.domain.BaseTimeEntity
 com/quasar/book/springboot/web/dto/PostsSaveRequestDto.java
  com.quasar.book.springboot.web.dto.PostsSaveRequestDto
  com.quasar.book.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
@@ -17,8 +17,12 @@ com/quasar/book/springboot/domain/posts/Posts.java
  com.quasar.book.springboot.domain.posts.Posts$PostsBuilder
 com/quasar/book/springboot/web/dto/PostsResponseDto.java
  com.quasar.book.springboot.web.dto.PostsResponseDto
-com/quasar/book/springboot/domain/BaseTimeEntity.java
- com.quasar.book.springboot.domain.BaseTimeEntity
+com/quasar/book/springboot/web/dto/PostsListResponseDto.java
+ com.quasar.book.springboot.web.dto.PostsListResponseDto
+com/quasar/book/springboot/domain/posts/PostsRepository.java
+ com.quasar.book.springboot.domain.posts.PostsRepository
+com/quasar/book/springboot/web/IndexController.java
+ com.quasar.book.springboot.web.IndexController
 com/quasar/book/springboot/service/posts/PostsService.java
  com.quasar.book.springboot.service.posts.PostsService
 com/quasar/book/springboot/web/PostsApiController.java
