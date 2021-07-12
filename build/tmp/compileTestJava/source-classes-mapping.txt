@@ -1,0 +1,8 @@
+com/quasar/book/springboot/web/dto/HelloResponseDtoTest.java
+ com.quasar.book.springboot.web.dto.HelloResponseDtoTest
+com/quasar/book/springboot/web/HelloControllerTest.java
+ com.quasar.book.springboot.web.HelloControllerTest
+com/quasar/book/springboot/domain/posts/PostsRepositoryTest.java
+ com.quasar.book.springboot.domain.posts.PostsRepositoryTest
+com/quasar/book/springboot/web/PostsApiControllerTest.java
+ com.quasar.book.springboot.web.PostsApiControllerTest
