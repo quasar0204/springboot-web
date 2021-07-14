@@ -1,29 +1,53 @@
+com/quasar/book/springboot/domain/user/Role.java
+ com.quasar.book.springboot.domain.user.Role
+com/quasar/book/springboot/config/auth/LoginUserArgumentResolver.java
+ com.quasar.book.springboot.config.auth.LoginUserArgumentResolver
 com/quasar/book/springboot/web/HelloController.java
  com.quasar.book.springboot.web.HelloController
-com/quasar/book/springboot/web/dto/HelloResponseDto.java
- com.quasar.book.springboot.web.dto.HelloResponseDto
-com/quasar/book/springboot/domain/BaseTimeEntity.java
- com.quasar.book.springboot.domain.BaseTimeEntity
-com/quasar/book/springboot/web/dto/PostsSaveRequestDto.java
- com.quasar.book.springboot.web.dto.PostsSaveRequestDto
- com.quasar.book.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
-com/quasar/book/springboot/Application.java
- com.quasar.book.springboot.Application
-com/quasar/book/springboot/web/dto/PostsUpdateRequestDto.java
- com.quasar.book.springboot.web.dto.PostsUpdateRequestDto
- com.quasar.book.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+com/quasar/book/springboot/config/auth/CustomOAuth2UserService.java
+ com.quasar.book.springboot.config.auth.CustomOAuth2UserService
 com/quasar/book/springboot/domain/posts/Posts.java
  com.quasar.book.springboot.domain.posts.Posts
  com.quasar.book.springboot.domain.posts.Posts$PostsBuilder
-com/quasar/book/springboot/web/dto/PostsResponseDto.java
- com.quasar.book.springboot.web.dto.PostsResponseDto
-com/quasar/book/springboot/web/dto/PostsListResponseDto.java
- com.quasar.book.springboot.web.dto.PostsListResponseDto
+com/quasar/book/springboot/domain/BaseTimeEntity.java
+ com.quasar.book.springboot.domain.BaseTimeEntity
 com/quasar/book/springboot/domain/posts/PostsRepository.java
  com.quasar.book.springboot.domain.posts.PostsRepository
-com/quasar/book/springboot/web/IndexController.java
- com.quasar.book.springboot.web.IndexController
 com/quasar/book/springboot/service/posts/PostsService.java
  com.quasar.book.springboot.service.posts.PostsService
 com/quasar/book/springboot/web/PostsApiController.java
  com.quasar.book.springboot.web.PostsApiController
+com/quasar/book/springboot/domain/user/UserRepository.java
+ com.quasar.book.springboot.domain.user.UserRepository
+com/quasar/book/springboot/web/dto/PostsListResponseDto.java
+ com.quasar.book.springboot.web.dto.PostsListResponseDto
+com/quasar/book/springboot/web/IndexController.java
+ com.quasar.book.springboot.web.IndexController
+com/quasar/book/springboot/config/auth/LoginUser.java
+ com.quasar.book.springboot.config.auth.LoginUser
+com/quasar/book/springboot/config/WebConfig.java
+ com.quasar.book.springboot.config.WebConfig
+com/quasar/book/springboot/domain/user/User.java
+ com.quasar.book.springboot.domain.user.User
+ com.quasar.book.springboot.domain.user.User$UserBuilder
+com/quasar/book/springboot/web/dto/PostsSaveRequestDto.java
+ com.quasar.book.springboot.web.dto.PostsSaveRequestDto
+ com.quasar.book.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
+com/quasar/book/springboot/config/auth/dto/SessionUser.java
+ com.quasar.book.springboot.config.auth.dto.SessionUser
+com/quasar/book/springboot/web/dto/HelloResponseDto.java
+ com.quasar.book.springboot.web.dto.HelloResponseDto
+com/quasar/book/springboot/config/auth/dto/OAuthAttributes.java
+ com.quasar.book.springboot.config.auth.dto.OAuthAttributes
+ com.quasar.book.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
+com/quasar/book/springboot/web/dto/PostsUpdateRequestDto.java
+ com.quasar.book.springboot.web.dto.PostsUpdateRequestDto
+ com.quasar.book.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+com/quasar/book/springboot/config/auth/SecurityConfig.java
+ com.quasar.book.springboot.config.auth.SecurityConfig
+com/quasar/book/springboot/web/dto/PostsResponseDto.java
+ com.quasar.book.springboot.web.dto.PostsResponseDto
+com/quasar/book/springboot/Application.java
+ com.quasar.book.springboot.Application
+com/quasar/book/springboot/config/JpaConfig.java
+ com.quasar.book.springboot.config.JpaConfig
